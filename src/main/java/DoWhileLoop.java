@@ -3,5 +3,11 @@ public class DoWhileLoop {
         //title
         System.out.println("*** Do-While Loops ***");
 
+        int i = 0; //setting the counter to zero
+
+        do {
+            System.out.println("I love Jaavaa!");
+
+        }
     }
 }
