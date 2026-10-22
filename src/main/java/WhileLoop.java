@@ -9,8 +9,16 @@ public class WhileLoop {
 
         System.out.println("*** While Loop ***"); // title
 
+        int i = 1; //starting counter at 1
+
+        while (i <5) {      // while the counter (i) is less than or equal to 5
+            System.out.println("I love Jaavaa!"); //will then display message
+            ++i; // Increase counter (i) by 1
+
         }
+
     }
+}
 
 
 
