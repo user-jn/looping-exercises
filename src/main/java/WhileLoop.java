@@ -13,7 +13,7 @@ public class WhileLoop {
 
         while (i <5) {      // while the counter (i) is less than or equal to 5
             System.out.println("I love Jaavaa!"); //will then display message
-            ++i; // Increase counter (i) by 1
+            ++i; //increase counter (i) by 1
 
         }
 

@@ -7,7 +7,7 @@ public class DoWhileLoop {
 
         do {
             System.out.println("I love Jaavaa!");
-
-        }
+            ++i; //increase counter by 1
+        } while (i <5); //printing message while counter is less than or equal to 5
     }
 }
